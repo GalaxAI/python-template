@@ -1,5 +1,7 @@
 # Config related
-*.lock # I don't want uv.lock
+
+## I don't want uv.lock
+*.lock 
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
